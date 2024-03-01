@@ -1,0 +1,7 @@
+.programmer-form {
+  display: flex;
+  width: 500px;
+  margin: 10px 0;
+  justify-content: space-evenly;
+  align-items: center;
+}

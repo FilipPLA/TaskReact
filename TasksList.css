@@ -1,0 +1,15 @@
+.tasks-form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 50px 0;
+  padding-top: 0;
+  justify-content: space-between;
+  align-items: center;
+}
+.firstOne {
+  margin-bottom: 10px;
+}
+.secondInp {
+  margin-bottom: 10px;
+}
